@@ -8,4 +8,4 @@ In this app I've learned basics things about IOs UI like:
 - Images and system icons
 - Backgrounds
 
-<img src="./Screenshot 2024-12-10 at 4.41.12 PM.png">a
+<img src="./Screenshot 2024-12-10 at 4.41.12 PM.png">
